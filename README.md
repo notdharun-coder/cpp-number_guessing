@@ -10,8 +10,3 @@ A simple console-based number guessing game built using C++.
 ## 💻 Tech Used
 - C++
 
-## ▶️ How to Run
-1. Compile:
-   g++ number_guessing.cpp -o game
-2. Run:
-   ./game
